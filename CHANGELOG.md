@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-23)
+## Unreleased (2026-09-24)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`612a0c1`](https://github.com/stdlib-js/stdlib/commit/612a0c1617a634e2e2212803bbd49d67514075db) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`191a110`](https://github.com/stdlib-js/stdlib/commit/191a110ad8c6808e0eb06f06b7772333a5c43de3) - **feat:** add C implementation for `stats/base/ndarray/dnanmeanpw` [(#14177)](https://github.com/stdlib-js/stdlib/pull/14177) _(by Ujjwal Verma, Athan Reines, Sachin Pangal)_
 -   [`0f24d0d`](https://github.com/stdlib-js/stdlib/commit/0f24d0d9f742c471f083ad6c00df814e05053d12) - **docs:** update descriptions and comments [(#13451)](https://github.com/stdlib-js/stdlib/pull/13451) _(by Philipp Burckhardt)_
 -   [`46ec186`](https://github.com/stdlib-js/stdlib/commit/46ec186fcbd6df60f64a58f504b661a63bc5cd47) - **docs:** update description _(by Athan Reines)_
